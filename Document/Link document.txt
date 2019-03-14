@@ -1,0 +1,4 @@
+https://github.com/aleju/face-comparer
+https://www.quora.com/How-can-I-match-two-images-faces-in-case-with-Python-Is-theresome-module-that-can-help-me-with-this
+https://github.com/12345k/Two-Face-Comparison
+Demo : https://www.faceplusplus.com/face-comparing/
